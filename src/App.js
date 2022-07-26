@@ -1,7 +1,7 @@
 //. task--> amazon img & all ko click krne pr 1st page open hona (with page header.js, subheader.js, card.js copmo)
 // . -----> subheader me shirt & pant ko click krne pr shirt & pant compo open hona
 // -------------------------------------------------------------------------------------------------------------------------------- 
-//1. ctrl+c to stop server & install nmp i react-router-dom than check,it show on package.json than open server with npm start
+//1. ctrl+c to stop server & install npm i react-router-dom than check,it show on package.json than open server with npm start
 // --->>>>> import router with new version {BrowserRouter, Routes, Route} from 'react-router-dom'
 // 2. make router ------>>>>>
 // "/"-->1st page--> ye hame direct show krega brouser me
